@@ -1,0 +1,2 @@
+C:\Users\jenyl\source\repos\AutomileSignalRExample\AutomileSignalRExample\obj\Debug\AutomileSignalRExample.njsprojAssemblyReference.cache
+C:\Users\jenyl\source\repos\AutomileSignalRExample\AutomileSignalRExample\bin\Microsoft.NodejsTools.WebRole.dll

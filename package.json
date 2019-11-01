@@ -1,0 +1,12 @@
+{
+  "name": "automile-signal-rexample",
+  "version": "0.0.0",
+  "description": "AutomileSignalRExample",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "node-signalr": "^1.0.12"
+  }
+}
